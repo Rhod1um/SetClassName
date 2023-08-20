@@ -1,0 +1,20 @@
+body{
+    background: bisque;
+}
+.button2 {
+    border: none;
+    background-color: palevioletred;
+    color: black;
+    font-size: 8px;
+    font-family: inherit;
+    padding: 1rem 1rem;
+    cursor: pointer;
+}
+
+.first{
+    font-font: Arial;
+    font-size: 10px;
+}
+.notShow{
+    display: none;
+}
